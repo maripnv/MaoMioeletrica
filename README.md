@@ -58,7 +58,7 @@ Para executar os códigos embarcados:
 
 * Conecte o módulo EMG ao Arduino Mega conforme o diagrama disponível no repositório.
 * Faça upload do arquivo .ino correspondente.
-* Ajuste a porta serial, a placa e a taxa de baud quando necessário (está configurada para 9600).
+* Ajuste a porta serial, a placa e a taxa de baud.
 * Caso deseje realizar aquisição dos dados, execute o script Python informando a porta COM utilizada (não se esqueça de fechar a IDE do Arduino, se não executa).
 
 ## 🔧 Melhorias
